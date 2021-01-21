@@ -1,104 +1,27 @@
-# Javascript demo
+# ![icons8-javascript.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/21-21-56-44-icons8-javascript.png) Javascript for Kid
 
-## Cách sử dụng javascript trong HTML
+## 🌀Xin chào các bạn đây, mình tên là Zenfection gọi tắt là Zen đây là một Series Javascript của mình🌀
 
-Có 2 cách : 
+#### Mình có đôi lời muốn nói sau đây:
 
-- Viết code `Javascript` trong thẻ `<script></script>`
+| Tác giả     | Phóng tác  | Năm viết |
+| ----------- | ---------- | -------- |
+| Quantrimang | Zenfection | 2021     |
 
-```html
-<body>
-<script>alert("code js")</script>
-</body>
-```
+Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giáo trình của Quantrimang, mình là người phóng tác lại nó cho nó ngắn gọn hơn, chủ yếu là tối ưu nó hơn, dĩ nhiên mình sẽ thêm khá nhiều thứ vào đó, đến với **`Javascript for Kid`** bạn sẽ hiểu từ căn bản đến thành thạo về Javascript. Chúc bạn học tập tốt nhé và sau đây là:
 
-- Viết code `Javascript` trong file `main.js` rồi trỏ vào `HTML` :
+## Mục lục:
 
-```html
-<script src="./main.js"></script>
-```
+### ——Javascript cơ bản
 
----
+            ➡ [Bài 1.Giới thiệu]()
 
-## Khai báo biến
+            ➡ [Bài 2.Cú pháp]()
 
-Sữ dụng `var` hoặc `let` để khai báo tên biến, nó sẽ tự nhận biết tên biến
+            ➡ [Bài 3.Biến]()
 
-> Khuyết khích sử dụng `let`, và sử dụng đặt tên biến bằng quy tắc camelCase
+            ➡ [Bài 4.Toán tử]()
 
-```javascript
-let fulllName = "Le Tuan Kiet";
-let age = 18;
-let isMen = true;
-```
+            ➡ [Bài 5.Điều kiện]()
 
----
 
-## Comment
-
-Có 2 cách :
-
-- Ghi chú một dòng bằng `//`
-- Ghi chú nhiều dòngb ằng `/**/`
-
----
-
-## Một số hàm built-in
-
-- `alert` : *hiển thị thông báo chỉ có* **OK**
-- `console` : *hiển thị thông báo trong khung console, gồm 3 thuộc tính phổ biến*
-  - `console.log` : *hiển thị mọi kiểu dữ liệu*
-  - `console.warn` : *hiển thị mọi kiểu dữ liệu dạng* **warning**
-  - `console.error` : *hiển thị mọi kiểu dữ liệu dạng* **error**
-- `confirm` : *hiển thị thông báo tuỳ chọn* **OK** và **Cancel**
-- `prompt` : *hiển thị thông báo yêu cầu nhập*
-- `setTimeout` : *chạy code sau 1 khoản thời gian ms*
-- `Set interval` : *chạy code liên tục sau 1 khoảng thời gian ms*
-- `is`
-  - `Number.isInteger` : *kiểm tra số nguyên*
-  - `isNaN` : *kiểm tra có phải số không*
-
----
-
-## Chuỗi
-
-Một số thuộc tính thường dùng : 
-
-- `length` : *độ dài chuỗi*
-- `Find Index` :
-  - `indexOf` : *vị trí của từ đầu tiên tìm được*
-  - `lastindexOf` : *vị trí từ cuối cùng tìm được*
-- `slice` : *cắt chữ tại vị trí nào đó*
-- `replace` : *thay thế chữ này thành chữ kia trong chuỗi*
-- `Convert`
-  - `toUpperCase` : *biến chuỗi thành in hoa*
-  - `toLowerCase` : *biến chuỗi thành in thường*
-- `trim` : *loại bỏ khoảng trắng dư thừa trong chuỗi*
-- `split` : *biến chuỗi thành mảng thông qua ký tự lặp lại*
-- `charAt` : *trả về ký tự tại vị trí trong chuỗi*
-
----
-
-## Số
-
-Một số thuộc tính thường dùng 
-
-- `toString` : *biến số thành chuỗi*
-- `toFixed` : *làm tròn số theo quy tắc làm tròn*
-- `parseInt` : *biến thành số nguyên*
-
----
-
-## Mảng
-
-Một số thuộc tính thường dùng : 
-
-- `toString` : *biến mảng thành chuỗi*
-- `join` : *biến mảng thành chuỗi có thêm dấu ngăn cách*
-- `pop` :  *xoá và trả về 1 phần tử cuối mảng*
-- `push` : *thêm 1 hoặc nhiều phần tử lên cuối mảng*
-- `shift` :  *xoá và trả về 1 phần tử đầu mảng*
-- `unshift` : *thêm 1 hoặc nhiều phần tử lên đầu mảng*
-- `splice` :  *xoá và chèn thêm phần tử vào mảng*
-- `concat` : *nối 2 mảng lại với nhau*
-- `slice` : *cắt phần tử trong mảng*
