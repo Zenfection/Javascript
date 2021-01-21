@@ -14,14 +14,16 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
 ### ——Javascript cơ bản
 
-            ➡ [Bài 1.Giới thiệu]()
+            ➡ [Bài 1.Giới thiệu](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/1.Gioithieu.md)
 
-            ➡ [Bài 2.Cú pháp]()
+            ➡ [Bài 2.Cú pháp](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/2.Cuphap.md)
 
-            ➡ [Bài 3.Biến]()
+            ➡ [Bài 3.Biến](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/3.Bien.md)
 
-            ➡ [Bài 4.Toán tử]()
+            ➡ [Bài 4.Toán tử](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/4.Toantu.md)
 
-            ➡ [Bài 5.Điều kiện]()
+            ➡ [Bài 5.Điều kiện](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/5.Dieukien.md)
+
+            ➡ [Bài 6.Vòng lặp](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/6.Vonglap.md)
 
 
