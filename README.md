@@ -45,11 +45,14 @@ Có 2 cách :
 
 ## Một số hàm built-in
 
-- `alert` 
-- `console`
-- `confirm`
-- `prompt`
-- `setTimeout`
-- `Set interval`
+- `alert` : *hiển thị thông báo chỉ có* **OK**
+- `console` : *hiển thị thông báo trong khung console, gồm 3 thuộc tính phổ biến*
+  - `console.log` : *hiển thị mọi kiểu dữ liệu*
+  - `console.warn` : *hiển thị mọi kiểu dữ liệu dạng* **warning**
+  - `console.error` : *hiển thị mọi kiểu dữ liệu dạng* **error**
+- `confirm` : *hiển thị thông báo tuỳ chọn* **OK** và **Cancel**
+- `prompt` : *hiển thị thông báo yêu cầu nhập*
+- `setTimeout` : *chạy code sau 1 khoản thời gian ms*
+- `Set interval` : *chạy code liên tục sau 1 khoảng thời gian ms*
 
 
