@@ -48,20 +48,20 @@
 
 ---
 
-## HTML Wrapper Methods
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-16-16-13-icons8-html.png" title="" alt="icons8-html.png" width="40">HTML Wrapper Methods
 
-| Phương thức | Mô tả | Ví dụ |     |
-| ----------- | ----- | ----- | --- |
-| anchor()    |       |       |     |
-| big()       |       |       |     |
-| blink()     |       |       |     |
-| bold()      |       |       |     |
-| fixed()     |       |       |     |
-| fontcolor() |       |       |     |
-| fontsize()  |       |       |     |
-| italics()   |       |       |     |
-| link()      |       |       |     |
-| small()     |       |       |     |
-| strike()    |       |       |     |
-| sub()       |       |       |     |
-| sup()       |       |       |     |
+> ⚠️ Đây không phải các `method` chuẩn, nên sẽ không hoạt động ổn định trên các `browser` cũ 
+
+| Phương thức                                                  | Mô tả                                                                                                                                                      | Ví dụ |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [anchor()](https://www.w3schools.com/jsref/jsref_anchor.asp) | Tạo một `anchor`                                                                                                                                           |       |
+| big()<br>small()<br>bold()<br>italics()                      | Hiển thị `chuỗi` với font **Lớn**<br>Hiển thị `chuỗi` với font **nhỏ**<br>Hiển thị `chuỗi` với font **in đậm**<br>Hiển thị `chuỗi` với font **in nghiêng** |       |
+| blink()                                                      |                                                                                                                                                            |       |
+| fixed()                                                      |                                                                                                                                                            |       |
+| fontcolor()                                                  |                                                                                                                                                            |       |
+| fontsize()                                                   |                                                                                                                                                            |       |
+| italics()                                                    |                                                                                                                                                            |       |
+| link()                                                       |                                                                                                                                                            |       |
+| strike()                                                     |                                                                                                                                                            |       |
+| sub()                                                        |                                                                                                                                                            |       |
+| sup()                                                        |                                                                                                                                                            |       |
