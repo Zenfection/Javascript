@@ -1,6 +1,17 @@
-# Javascript String
+# ![icons8-javascript.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-16-10-25-icons8-javascript.png)Javascript String
 
-## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-13-17-07-icons8-show_property.png" title="" alt="icons8-show_property.png" width="50"> Properties
+**Chuỗi** (*String*) để lưu trữ tập hợp các ký tự như `Kiệt đẹp trai`
+
+>  💡 Có lưu chứa trong dấu `''` *hoặc* `""` như sau : 
+> 
+> ```javascript
+> let firstName = "Lê";
+> let lastName = "Kiệt";
+> ```
+> 
+> 💡 Chỉ mục của `string` bắt đầu từ `0`
+
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-13-17-07-icons8-show_property.png" title="" alt="icons8-show_property.png" width="40"> Properties
 
 | Tính chất                                                                   | Mô tả                                                          |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -10,7 +21,7 @@
 
 ---
 
-## ![icons8-settings.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-13-18-15-icons8-settings.png) Methods
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-13-18-15-icons8-settings.png" title="" alt="icons8-settings.png" width="40"> Methods
 
 | ![icons8-magic_wand.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-15-21-11-icons8-magic_wand.png) Phương thức                                                                                                                                                                                    | ![icons8-handle_with_care.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-15-19-20-icons8-handle_with_care.png) Mô tả | ![icons8-input.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-15-18-48-icons8-input.png) Input | ![icons8-output.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-15-18-39-icons8-output.png) Output | ![icons8-energy_saving_bulb.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-15-20-02-icons8-energy_saving_bulb.png) Ví dụ (`Name` = `Hello`)                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
