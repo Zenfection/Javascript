@@ -4,26 +4,26 @@
 
 #### Mình có đôi lời muốn nói sau đây:
 
-| Tác giả     | Phóng tác  | Năm viết |
-| ----------- | ---------- | -------- |
-| Quantrimang | Zenfection | 2021     |
+| Tác giả                                                                                                                                                                                                                           | Phóng tác                                                                                                                                             | Năm viết |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| ![15548dee143968fb4dabbc71016811d6icon  01png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/22-21-46-55-15548dee143968fb4dabbc71016811d6_icon%20-%2001.png) [W3school](https://www.w3schools.com/javascript) | ![zencat.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/22-21-50-29-zencat.png) [Zenfection](https://facebook.com/zenfection) | 2021     |
 
-Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giáo trình của Quantrimang, mình là người phóng tác lại nó cho nó ngắn gọn hơn, chủ yếu là tối ưu nó hơn, dĩ nhiên mình sẽ thêm khá nhiều thứ vào đó, đến với **`Javascript for Kid`** bạn sẽ hiểu từ căn bản đến thành thạo về Javascript. Chúc bạn học tập tốt nhé và sau đây là:
+| Tham khảo  | Zen | W3school |
+| ---------- | --- | -------- |
+| Array      |     |          |
+| Boolean    |     |          |
+| Classes    |     |          |
+| Date       |     |          |
+| Error      |     |          |
+| Global     |     |          |
+| JSON       |     |          |
+| Math       |     |          |
+| Number     |     |          |
+| Operators  |     |          |
+| RegExp     |     |          |
+| Statements |     |          |
+| String     |     |          |
 
-## Mục lục:
 
-### ——Javascript cơ bản
-
-            ➡ [Bài 1.Giới thiệu](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/1.Gioithieu.md)
-
-            ➡ [Bài 2.Cú pháp](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/2.Cuphap.md)
-
-            ➡ [Bài 3.Biến](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/3.Bien.md)
-
-            ➡ [Bài 4.Toán tử](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/4.Toantu.md)
-
-            ➡ [Bài 5.Điều kiện](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/5.Dieukien.md)
-
-            ➡ [Bài 6.Vòng lặp](https://github.com/Zenfection/Javascript/blob/master/Javascript%20Basic/6.Vonglap.md)
 
 
