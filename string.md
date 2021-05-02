@@ -11,6 +11,16 @@
 > 
 > 💡 Chỉ mục của `string` bắt đầu từ `0`
 
+---
+
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/05/02-12-05-36-icons8-basil.png" title="" alt="icons8-basil.png" width="40"> Cơ bản
+
+- [Strings](https://www.w3schools.com/js/js_strings.asp)
+
+- [String Methods](https://www.w3schools.com/js/js_string_methods.asp)
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/04/24-13-17-07-icons8-show_property.png" title="" alt="icons8-show_property.png" width="40"> Properties
 
 | Tính chất                                                                   | Mô tả                                                          |
